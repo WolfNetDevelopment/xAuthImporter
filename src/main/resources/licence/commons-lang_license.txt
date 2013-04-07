@@ -1,0 +1,4 @@
+This software contains unmodified binary redistributions for the Apache Commons Lang library (http://commons.apache.org/proper/commons-lang/),
+which is licensed under the Apache License Version 2.0.
+
+An original copy of the license agreement can be found at: http://www.apache.org/licenses/LICENSE-2.0

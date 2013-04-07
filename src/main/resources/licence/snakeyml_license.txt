@@ -1,0 +1,4 @@
+This software contains unmodified binary redistributions for SnakeYAML parser (http://http://code.google.com/p/snakeyaml/),
+which is released under the Apache 2.0 license.
+
+An original copy of the license agreement can be found at: http://www.apache.org/licenses/LICENSE-2.0.html

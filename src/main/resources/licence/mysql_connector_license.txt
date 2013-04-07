@@ -1,0 +1,4 @@
+This software contains unmodified binary redistributions for MySQL Connector (http://www.mysql.com/),
+which is licensed under "FOSS License Exception".
+
+An original copy of the license agreement can be found at: http://www.mysql.com/about/legal/licensing/foss-exception/

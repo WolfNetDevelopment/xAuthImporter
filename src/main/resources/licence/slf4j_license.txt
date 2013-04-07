@@ -1,0 +1,4 @@
+This software contains unmodified binary redistributions for The Simple Logging Facade for Java or (SLF4J)
+(http://www.slf4j.org/), which is licensed under MIT licence.
+
+An original copy of the license agreement can be found at: http://slf4j.org/license.html

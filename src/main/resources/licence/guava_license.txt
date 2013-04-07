@@ -1,0 +1,4 @@
+This software contains unmodified binary redistributions for Google Core Libraries for Java 1.6+
+(http://code.google.com/p/guava-libraries/), which is licensed under Apache License 2.0.
+
+An original copy of the license agreement can be found at: http://www.apache.org/licenses/LICENSE-2.0
